@@ -1,0 +1,29 @@
+:root {
+    --bg-color: #1A1A1D;
+    --main-color: cornflowerblue;
+}
+
+body {
+    background-color: var(--bg-color);
+    margin: 0;
+}
+
+main {
+    margin-left: 200px;
+}
+
+.sidenav {
+    background-color: var(--main-color);
+    width: 200px;
+    height: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    position: fixed;
+    overflow-x: hidden;
+}
+
+
+.header {
+    background-color: aliceblue;
+}
