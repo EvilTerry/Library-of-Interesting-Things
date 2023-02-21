@@ -1,5 +1,5 @@
 # Library-of-Interesting-Things
- Library of projects and other interesting things I've recreated
+ Library of odin projects and other interesting things I've recreated
 
 
 
